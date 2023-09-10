@@ -2,11 +2,11 @@
 
 ## Problem Overview and Context from Kaggle
 "Context - A superstore is planning for the year-end sale. They want to launch a new offer - gold membership, that gives a 20% discount on all purchases, for only $499 which is $999 on other days. It will be valid only for existing customers and the campaign through phone calls is currently being planned for them. The management feels that the best way to reduce the cost of the campaign is to make a predictive model which will classify customers who might purchase the offer.
-Objective - The superstore wants to predict the likelihood of the customer giving a positive response and wants to identify the different factors which affect the customer's response. You need to analyze the data provided to identify these factors and then build a prediction model to predict the probability of a customer will give a positive response." 
-Data description from Kaggle is as follows;
 
-Response (target) - 1 if customer accepted the offer in the last campaign, 0 otherwise
-ID - Unique ID of each customer
+Objective - The superstore wants to predict the likelihood of the customer giving a positive response and wants to identify the different factors which affect the customer's response. You need to analyze the data provided to identify these factors and then build a prediction model to predict the probability of a customer will give a positive response." 
+## Features and Target Variable Details from Kaggle
+Response (target) - 1 if customer accepted the offer in the last campaign, 0 otherwise <br>
+ID - Unique ID of each customer <br>
 Year_Birth - Age of the customer
 Complain - 1 if the customer complained in the last 2 years
 Dt_Customer - date of customer's enrollment with the company
